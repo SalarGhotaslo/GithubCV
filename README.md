@@ -60,7 +60,7 @@ _Technical Administrator_
 _Out & About volunteer_
 
 - Being a key part of the support networks for two vulnerable elderly people, one with a lot of health concerns and the other being visually impaired.
-- This has greatly helped me within a working environment as it has taught me to be patient and understanding of others.
+- Transferable skills where it has taught me to be patient and understanding of others.
 
 ## Skills
 
