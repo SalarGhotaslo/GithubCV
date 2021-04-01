@@ -90,11 +90,11 @@ I have frequently changed the focus from one project to another at short notice;
 
 #### University of Plymouth / College (September-2012 to September-2016)
 
-Bachelor of Science in Mathematics and Finance (Honours)
+- Bachelor of Science in Mathematics and Finance (Honours)
 
 #### Carisbrooke High School (September-2007 to September-2012)
 
-A levels - Mathematics, Chemistry, Business with Economics and Physical Education
+- A levels - Mathematics, Chemistry, Business with Economics and Physical Education
 
 ## Hobbies
 
