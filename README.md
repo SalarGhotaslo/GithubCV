@@ -1,7 +1,17 @@
 # Salar Ghotaslo CV
 
+<div align="center">
+
+[Projects ](#projects) |
+[Skills ](#skills) |
+[Experience ](#experience) |
+[Education ](#education) |
+[Hobbies ](#hobbies)
+
+</div>
+
 Former business analyst/project manager turned into an enthusiastic coder!
-Having recently graduated from Makers Academy I have gained the skills to set me up to be a succesful developer.
+Having recently graduated from [Makers Academy](https://makers.tech) I have gained the skills to set me up to be a succesful developer.
 
 I love the logic behind coding and visually being able to see how you can apply it to real world problems. My current strongest areas are using Ruby, Rails, Javascript and React native.
 
