@@ -46,3 +46,39 @@ _Out & About volunteer_
 
 - Being a key part of the support networks for two vulnerable elderly people, one with a lot of health concerns and the other being visually impaired.
 - This has greatly helped me within a working environment as it has taught me to be patient and understanding of others.
+
+## Skills
+
+#### Analytical
+
+I understand how to break problems down into small pieces and take a structured approach to solve them. I have transferred this skill into various coding projects, which has allowed me to debug code quickly and efficiently.
+
+#### Team Player
+
+I have learned to work both autonomously and collaboratively using both influence and compromise. I am willing to listen to team members and embrace their ideas, but also have the ability to influence to entertain different ways of thinking.
+
+#### Adaptability
+
+I have frequently changed the focus from one project to another at short notice; this allows me to thrive in fast-paced environments. When working as a project coordinator, project requirements would change weekly; therefore, I have learned to embrace change and become resilient.
+
+## Education
+
+#### Makers Academy (December-2020 to April-2021)
+
+- During my time at Makers, I built full-stack applications using test-driven development and object-oriented programming.
+- Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication and ran stand-ups and retros
+  Extra skills used throughout:
+- OOP, TDD, MVC, DDD
+- Agile
+- Ruby, Rails, JavaScript, React native
+- RSpec, Jasmine, Jest
+
+#### University of Plymouth / College (September-2012 to September-2016)
+
+- Mathematics with finance
+
+#### Carisbrooke High School (September-2007 to September-2012)
+
+A levels - Mathematics, Chemistry, Business with Economics and Physical Education
+
+GCSE's - Mathematics, English Language, Chemistry, Biology, Physics, English Literature, History, Business, ICT, Religious Studies.
