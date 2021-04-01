@@ -1,4 +1,4 @@
-# Salar Ghotaslo CV
+<h1 align="center">Salar Ghotaslo CV</h1>
 
 <div align="center">
 
