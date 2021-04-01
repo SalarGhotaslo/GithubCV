@@ -4,6 +4,7 @@
 
 [My LinkedIn](https://www.linkedin.com/in/salar-ghotaslo-7b2060a9/)
 
+[Summary](#summary)|
 [Projects ](#projects) |
 [Skills ](#skills) |
 [Experience ](#experience) |
@@ -11,6 +12,8 @@
 [Hobbies ](#hobbies)
 
 </div>
+
+## Summary
 
 Former business analyst/project manager turned into an enthusiastic coder!
 Having recently graduated from [Makers Academy](https://makers.tech) I have gained the skills to set me up to be a succesful developer.
