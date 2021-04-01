@@ -2,6 +2,8 @@
 
 <div align="center">
 
+[My LinkedIn](https://www.linkedin.com/in/salar-ghotaslo-7b2060a9/)
+
 [Projects ](#projects) |
 [Skills ](#skills) |
 [Experience ](#experience) |
