@@ -80,5 +80,3 @@ I have frequently changed the focus from one project to another at short notice;
 #### Carisbrooke High School (September-2007 to September-2012)
 
 A levels - Mathematics, Chemistry, Business with Economics and Physical Education
-
-GCSE's - Mathematics, English Language, Chemistry, Biology, Physics, English Literature, History, Business, ICT, Religious Studies.
