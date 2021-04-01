@@ -98,5 +98,5 @@ I have frequently changed the focus from one project to another at short notice;
 
 ## Hobbies
 
-- Actively play a lot of sports: basketball, netball, sailing, tennis as my current favourites. Competed at a university level for basketball in basketball and sailing.
+- Actively play a lot of sports: basketball, netball, sailing, tennis as my current favourites. Competed at a university level for basketball and sailing.
 - Enjoy volunteering in my local community to try and give back wherever I can.
