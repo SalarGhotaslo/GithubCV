@@ -16,9 +16,11 @@
 ## Summary
 
 Former business analyst/project manager turned into an enthusiastic coder!
-Having recently graduated from [Makers Academy](https://makers.tech) I have gained the skills to set me up to be a succesful developer.
+Having recently graduated from [Makers Academy](https://makers.tech) I have gained the skills to set me up to be a successful developer.
 
 I love the logic behind coding and visually being able to see how you can apply it to real world problems. My current strongest areas are using Ruby, Rails, Javascript and React native.
+
+I bring a balanced mindset of experience from both managing projects and analysing data to help determine business outcomes. Both of these I think will be invaluable in my journey of being a developer
 
 Feel free to contact me regarding any job opportunities!
 
@@ -30,7 +32,7 @@ Feel free to contact me regarding any job opportunities!
 | Bank account       | Designed to allow customers to use usual bank account features such as credit/debiting an account and viewing the transcations | Ruby                                 |
 | Acebook-sholk      | A facebook clone where users can login, post messages and like each others posts                                               | Ruby on rails, Travis, Heroku        |
 
-Along with plenty more avaible to view on my Github
+Along with plenty more availble to view on my Github
 
 ## Experience
 
@@ -81,12 +83,13 @@ I have frequently changed the focus from one project to another at short notice;
 #### Makers Academy (December-2020 to April-2021)
 
 - During my time at Makers, I built full-stack applications using test-driven development and object-oriented programming.
-- Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication and ran stand-ups and retros
+- Frequently used paring in order to problem solve efficiently, requiring teamwork and communication and ran stand-ups and retros
   Extra skills used throughout:
 - OOP, TDD, MVC, DDD
 - Agile
 - Ruby, Rails, JavaScript, React native
 - RSpec, Jasmine, Jest
+
 
 #### University of Plymouth / College (September-2012 to September-2016)
 
