@@ -50,7 +50,7 @@ I have frequently changed the focus from one project to another at short notice;
 
 #### Self led learner
 
-I break problems down piece by piece and always have a good image of what clients/ businesses wants when an idea has been pitched. I am able to use my initiative to build on these ideas to produce meaningful work, using previous experience working as an analyst/project manager and online resources as my tools. I have been able to transfer this skill when studying at Makers Academy.
+I break problems down piece by piece and always have a good image of what clients/ businesses wants when an idea has been pitched. I am able to use my initiative to build on these ideas to produce meaningful work, using previous experience working as an analyst/project manager and online resources as my tools. I have been able to transfer this skill whilst studying at Makers Academy.
 
 ## Experience
 
