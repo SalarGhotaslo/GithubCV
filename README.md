@@ -26,11 +26,11 @@ Feel free to contact me regarding any job opportunities!
 
 ## Projects
 
-| Name               | Description                                                                                                                    | Tech/tools                           |
-| ------------------ | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------ |
-| Guilt trip / Sloth | The app is designed to encourage you to reach your step goal set and tracked by the app.                                       | React native, Javascript, Expo, Jest |
-| Bank account       | Designed to allow customers to use usual bank account features such as credit/debiting an account and viewing the transcations | Ruby                                 |
-| Acebook-sholk      | A facebook clone where users can login, post messages and like each others posts                                               | Ruby on rails, Travis, Heroku        |
+| Name                                                              | Description                                                                                                                    | Tech/tools                           |
+| ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------ |
+| [Guilt trip / Sloth](https://github.com/SalarGhotaslo/Guilt_Trip) | The app is designed to encourage you to reach your step goal set and tracked by the app.                                       | React native, Javascript, Expo, Jest |
+| [Bank account](https://github.com/SalarGhotaslo/Bank_account.rb)  | Designed to allow customers to use usual bank account features such as credit/debiting an account and viewing the transcations | Ruby                                 |
+| [Acebook-sholk](https://github.com/SalarGhotaslo/acebook-sholk)   | A facebook clone where users can login, post messages and like each others posts                                               | Ruby on rails, Travis, Heroku        |
 
 Along with plenty more availble to view on my Github
 
@@ -89,7 +89,6 @@ I have frequently changed the focus from one project to another at short notice;
 - Agile
 - Ruby, Rails, JavaScript, React native
 - RSpec, Jasmine, Jest
-
 
 #### University of Plymouth / College (September-2012 to September-2016)
 
