@@ -90,7 +90,7 @@ _Out & About volunteer_
 #### Makers Academy (December-2020 to April-2021)
 
 - During my time at Makers, I built full-stack applications using test-driven development and object-oriented programming.
-- Frequently used paring in order to problem solve efficiently, requiring teamwork and communication and ran stand-ups and retros
+- Frequently used pairng in order to problem solve efficiently, requiring teamwork and communication and ran stand-ups and retros
   Extra skills used throughout:
 - OOP, TDD, MVC, DDD
 - Agile, CI/CD
