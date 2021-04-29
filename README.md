@@ -38,11 +38,11 @@ Along with plenty more availble to view on my Github
 
 #### Analytical
 
-I understand how to break problems down into small pieces and take a structured approach to solve them. I have transferred this skill into various coding projects, which has allowed me to debug code quickly and efficiently.
+I understand how to break problems down into small pieces and take a structured approach to solve them. Having this structured approach has helped me save time in all of my coding projects as well as my efficiency in debugging. 
 
 #### Team Player
 
-I have learned to work both autonomously and collaboratively using both influence and compromise. I am willing to listen to team members and embrace their ideas, but also have the ability to influence to entertain different ways of thinking.
+I have learned to work both autonomously and collaboratively using both influence and compromise. I am willing to listen to team members and embrace their ideas, but also have the ability to influence to entertain different ways of thinking. During one of my projects at Makers it really made me appreciate how important it is to stick to scrum practices, allowing the team to work better and more effectively.
 
 #### Adaptability
 
