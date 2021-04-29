@@ -15,8 +15,7 @@
 
 ## Summary
 
-Former business analyst/project manager turned into an enthusiastic coder!
-Having recently graduated from [Makers Academy](https://makers.tech) I have gained the skills to set me up to be a successful developer.
+As a former business analyst, I had worked alongside other developers on various projects which started my fascination about coding and wanted to understand it more. I wanted to pursuit this interest further and have since graduated from [Makers Academy](https://makers.tech) where I have gained the skills to set me up to be a successful developer.
 
 I love the logic behind coding and visually being able to see how you can apply it to real world problems. My current strongest areas are using Ruby, Rails, Javascript and React native.
 
@@ -38,7 +37,7 @@ Along with plenty more availble to view on my Github
 
 #### Analytical
 
-I understand how to break problems down into small pieces and take a structured approach to solve them. Having this structured approach has helped me save time in all of my coding projects as well as my efficiency in debugging. 
+I understand how to break problems down into small pieces and take a structured approach to solve them. Having this structured approach has helped me save time in all of my coding projects as well as my efficiency in debugging.
 
 #### Team Player
 
