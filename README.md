@@ -25,11 +25,11 @@ From managing projects and analysing data, it's given me useful tools to bring a
 
 | Name                                                              | Description                                                                                                                                                                                                                                          | Tech/tools                           |
 | ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-| [Guilt trip / Sloth](https://github.com/SalarGhotaslo/Guilt_Trip) | The app is designed to encourage you to reach your step goal set and tracked by the app. My main contributions were towards the logic using javascript and the design.                                                                               | React native, Javascript, Expo, Jest |
-| [Bank account](https://github.com/SalarGhotaslo/Bank_account.rb)  | Designed to allow customers to use usual bank account features such as credit/debiting an account and viewing the transcations. This was to focus purely on coding within Ruby.                                                                      | Ruby                                 |
-| [Acebook-sholk](https://github.com/SalarGhotaslo/acebook-sholk)   | A facebook clone where users can login, post messages and like each others posts. This helped me focus on CRUD principles and how this can be applied within rails and then change the needs of the website to meet the requirements we had set out. | Ruby on rails, Travis, Heroku        |
+| [Guilt trip / Sloth](https://github.com/SalarGhotaslo/Guilt_Trip) | The app is designed to encourage you to reach your step goal set and tracked by the app. My main contributions were towards the logic using Javascript and the design.                                                                               | React native, Javascript, Expo, Jest |
+| [Bank account](https://github.com/SalarGhotaslo/Bank_account.rb)  | Designed to allow customers to use usual bank account features such as credit/debiting an account and viewing the transactions. This was to focus purely on coding within Ruby.                                                                      | Ruby                                 |
+| [Acebook-sholk](https://github.com/SalarGhotaslo/acebook-sholk)   | A Facebook clone where users can login, post messages and like each others posts. This helped me focus on CRUD principles and how this can be applied within rails and then change the needs of the website to meet the requirements we had set out. | Ruby on rails, Travis, Heroku        |
 
-Along with plenty more availble to view on my Github
+Along with plenty more available to view on my Github
 
 ## Skills
 
@@ -45,7 +45,7 @@ I have learned to work both autonomously and collaboratively using both influenc
 
 I have frequently changed the focus from one project to another at short notice; this allows me to thrive in fast-paced environments. When working as a project coordinator, project requirements would change weekly; therefore, I have learned to embrace change and become resilient.
 
-#### Self led learner
+#### Self-led learner
 
 I break problems down piece by piece and always have a good image of what clients/ businesses wants when an idea has been pitched. I am able to use my initiative to build on these ideas to produce meaningful work, using previous experience working as an analyst/project manager and online resources as my tools. I have been able to transfer this skill whilst studying at Makers Academy.
 
@@ -56,7 +56,7 @@ I break problems down piece by piece and always have a good image of what client
 
 - Managing large schemes throughout the whole project lifecycle.
 - Accountable for: project scope, project team, budgets, timelines and presenting progress.
-- Collobrating with external developers to create bespoke technologies to cater for the needs of the project.
+- Collaborating  with external developers to create bespoke technologies to cater for the needs of the project.
 - Built and nurtured a great relationship with various stakeholders.
 <br>
 
@@ -92,7 +92,7 @@ _Out & About volunteer_
 #### Makers Academy (December-2020 to April-2021)
 
 - During my time at Makers, I built full-stack applications using test-driven development and object-oriented programming.
-- Frequently used pairng in order to problem solve efficiently, requiring teamwork and communication and ran stand-ups and retros
+- Frequently used pairing in order to problem solve efficiently, requiring teamwork and communication and ran stand-ups and retros
   Extra skills used throughout:
 - OOP, TDD, MVC, DDD
 - Agile, CI/CD
