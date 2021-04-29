@@ -56,16 +56,16 @@ _Project Manager_
 
 - Managing large schemes throughout the whole project lifecycle.
 - Accountable for: project scope, project team, budgets, timelines and presenting progress.
-- Built and nurtured a great relationship with various stakeholders.
 - Collobrating with external developers to create bespoke technologies to cater for the needs of the project.
+- Built and nurtured a great relationship with various stakeholders.
 
 **Marks & Spencer** (November-2017 to July-2019)  
 _Business Analyst_
 
 - Created and developed new function reports to bring a higher-level of understanding of costs/budgets across the board and highlighting areas of concerns on each project.  
   This reduced the need of external resources putting this together saving time and money every week.
+- Using excel, power BI and other technologies to automate processes.
 - Supporting programme managers to carry out projects.
-- Using excel, power BI and other technologies to be able to automate processes.
 
 **Marks & Spencer** (January-2017 to November-2017)  
 _Technical Administrator_
