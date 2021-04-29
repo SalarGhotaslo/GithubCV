@@ -51,8 +51,8 @@ I break problems down piece by piece and always have a good image of what client
 
 ## Experience
 
-**Marks & Spencer** (July-2019 to November-2020)  
-_Project Manager_
+  **Marks & Spencer** (July-2019 to November-2020)  
+   _Project Manager_
 
 - Managing large schemes throughout the whole project lifecycle.
 - Accountable for: project scope, project team, budgets, timelines and presenting progress.
