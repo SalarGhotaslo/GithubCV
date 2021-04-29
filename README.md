@@ -58,7 +58,6 @@ _Project Manager_
 - Accountable for: project scope, project team, budgets, timelines and presenting progress.
 - Collobrating with external developers to create bespoke technologies to cater for the needs of the project.
 - Built and nurtured a great relationship with various stakeholders.
-  <br>
 
   **Marks & Spencer** (November-2017 to July-2019)  
   _Business Analyst_
@@ -68,9 +67,9 @@ _Project Manager_
 - Using excel, power BI and other technologies to automate processes.
 - Supporting programme managers to carry out projects.
   <br>
-  <br>
-  **Marks & Spencer** (January-2017 to November-2017)  
-   _Technical Administrator_
+
+**Marks & Spencer** (January-2017 to November-2017)  
+ _Technical Administrator_
 
 - Implemented a new project management/document holding software on the M&S systems.
 - Testing new software – working alongside IBM and TCS to ensure software was implemented correctly. Raising tickets through JIRA and administrating them.
