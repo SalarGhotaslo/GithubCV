@@ -78,7 +78,7 @@ _Technical Administrator_
 _Out & About volunteer_
 
 - Being a key part of the support networks for two vulnerable elderly people, one with a lot of health concerns and the other being visually impaired.
-- Regaining their confidence and helping them not feel so isolated.
+- By supporting them it's helped build their confidence within. themselves to carryout tasks where they would normally struggle.
 - Teaching them how to use new digital items to improve their quality of life.
 - Transferable skills where it has taught me to be patient and understanding of others.
 
