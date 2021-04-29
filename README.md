@@ -19,7 +19,7 @@ As a former business analyst, I had worked alongside other developers on various
 
 I love the logic behind coding and visually being able to see how you can apply it to real world problems. My current strongest areas are using Ruby, Rails, Javascript and React native.
 
-I bring a balanced mindset of experience from both managing projects and analysing data to help determine business outcomes. Both of these I think will be invaluable in my journey of being a developer
+From managing projects and analysing data, it's given me useful tools to bring a balanced mindset when working on projects. Both of these are invaluable in my journey of being a developer.
 
 Feel free to contact me regarding any job opportunities!
 
