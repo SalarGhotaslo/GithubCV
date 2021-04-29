@@ -66,7 +66,6 @@ _Project Manager_
   This reduced the need of external resources putting this together saving time and money every week.
 - Using excel, power BI and other technologies to automate processes.
 - Supporting programme managers to carry out projects.
-  <br>
 
 **Marks & Spencer** (January-2017 to November-2017)  
  _Technical Administrator_
