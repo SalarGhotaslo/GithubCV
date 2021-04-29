@@ -59,7 +59,7 @@ _Project Manager_
 - Collobrating with external developers to create bespoke technologies to cater for the needs of the project.
 - Built and nurtured a great relationship with various stakeholders.
   <br>
-  <br>
+
   **Marks & Spencer** (November-2017 to July-2019)  
   _Business Analyst_
 
@@ -70,7 +70,7 @@ _Project Manager_
   <br>
   <br>
   **Marks & Spencer** (January-2017 to November-2017)  
-  _Technical Administrator_
+   _Technical Administrator_
 
 - Implemented a new project management/document holding software on the M&S systems.
 - Testing new software – working alongside IBM and TCS to ensure software was implemented correctly. Raising tickets through JIRA and administrating them.
