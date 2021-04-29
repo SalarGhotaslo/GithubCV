@@ -69,6 +69,7 @@ _Business Analyst_
 - Supporting programme managers to carry out projects.
 <br>
 <br>
+
 **Marks & Spencer** (January-2017 to November-2017)  
  _Technical Administrator_
 
@@ -77,6 +78,7 @@ _Business Analyst_
 - Working alongside developers to try and overcome the problems that were arising with the changes/developments that were going on with the new software.
 <br>
 <br>
+
 **Age Wandsworth** (October-2017 to present)  
 _Out & About volunteer_
 
