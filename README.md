@@ -58,7 +58,8 @@ I break problems down piece by piece and always have a good image of what client
 - Accountable for: project scope, project team, budgets, timelines and presenting progress.
 - Collobrating with external developers to create bespoke technologies to cater for the needs of the project.
 - Built and nurtured a great relationship with various stakeholders.
-
+<br>
+<br>
 **Marks & Spencer** (November-2017 to July-2019)  
 _Business Analyst_
 
@@ -66,14 +67,16 @@ _Business Analyst_
   This reduced the need of external resources putting this together saving time and money every week.
 - Using excel, power BI and other technologies to automate processes.
 - Supporting programme managers to carry out projects.
-
+<br>
+<br>
 **Marks & Spencer** (January-2017 to November-2017)  
  _Technical Administrator_
 
 - Implemented a new project management/document holding software on the M&S systems.
 - Testing new software – working alongside IBM and TCS to ensure software was implemented correctly. Raising tickets through JIRA and administrating them.
 - Working alongside developers to try and overcome the problems that were arising with the changes/developments that were going on with the new software.
-
+<br>
+<br>
 **Age Wandsworth** (October-2017 to present)  
 _Out & About volunteer_
 
