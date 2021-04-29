@@ -57,7 +57,7 @@ _Project Manager_
 - Managing large schemes throughout the whole project lifecycle.
 - Accountable for: project scope, project team, budgets, timelines and presenting progress.
 - Built and nurtured a great relationship with various stakeholders.
-- Working alongside external developers to create bespoke technologies to cater for the needs of the project.
+- Collobrating with external developers to create bespoke technologies to cater for the needs of the project.
 
 **Marks & Spencer** (November-2017 to July-2019)  
 _Business Analyst_
