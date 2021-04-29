@@ -59,8 +59,8 @@ _Project Manager_
 - Collobrating with external developers to create bespoke technologies to cater for the needs of the project.
 - Built and nurtured a great relationship with various stakeholders.
 
-  **Marks & Spencer** (November-2017 to July-2019)  
-  _Business Analyst_
+**Marks & Spencer** (November-2017 to July-2019)  
+_Business Analyst_
 
 - Created and developed new function reports to bring a higher-level of understanding of costs/budgets across the board and highlighting areas of concerns on each project.  
   This reduced the need of external resources putting this together saving time and money every week.
@@ -73,10 +73,9 @@ _Project Manager_
 - Implemented a new project management/document holding software on the M&S systems.
 - Testing new software – working alongside IBM and TCS to ensure software was implemented correctly. Raising tickets through JIRA and administrating them.
 - Working alongside developers to try and overcome the problems that were arising with the changes/developments that were going on with the new software.
-  <br>
-  <br>
-  **Age Wandsworth** (October-2017 to present)  
-  _Out & About volunteer_
+
+**Age Wandsworth** (October-2017 to present)  
+_Out & About volunteer_
 
 - Being a key part of the support networks for two vulnerable elderly people, one with a lot of health concerns and the other being visually impaired.
 - By supporting them it's helped build their confidence within. themselves to carryout tasks where they would normally struggle.
