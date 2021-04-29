@@ -21,8 +21,6 @@ I love the logic behind coding and visually being able to see how you can apply 
 
 From managing projects and analysing data, it's given me useful tools to bring a balanced mindset when working on projects. Both of these are invaluable in my journey of being a developer.
 
-Feel free to contact me regarding any job opportunities!
-
 ## Projects
 
 | Name                                                              | Description                                                                                                                                                                                                                                          | Tech/tools                           |
