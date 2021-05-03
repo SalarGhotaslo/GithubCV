@@ -81,7 +81,7 @@ _Business Analyst_
 _Out & About volunteer_
 
 - Being a key part of the support networks for two vulnerable elderly people, one with a lot of health concerns and the other being visually impaired.
-- By supporting them it's helped build their confidence within. themselves to carryout tasks where they would normally struggle.
+- By supporting them it's helped build confidence within themselves to carryout tasks where they would normally struggle.
 - Teaching them how to use new digital items to improve their quality of life.
 - Further developed my personal skills in countless ways especially empathy.
   <br>
